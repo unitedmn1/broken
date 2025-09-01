@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+. loo yummy o
+o<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -13,9 +14,9 @@
     }
 
     body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;g on omlm
       background: #0f2027;  /* fallback for old browsers */
-      background: linear-gradient(90deg, #2c5364, #203a43, #0f2027);
+      background: linear-gradi fcr me gc noent(90deg, #2c5364, #203a43, #0f2027);
       color: #fff;
       line-height: 1.6;
       min-height: 100vh;
@@ -39,7 +40,7 @@
     nav a {
       color: #fff;
       text-decoration: none;
-      margin-left: 20px;
+      margin-left: 20px;j,t
       font-weight: 600;
       transition: color 0.3s ease;
     }
@@ -75,7 +76,7 @@
     .hero button {
       background: #f39c12;
       border: none;
-      padding: 15px 30px;
+      padding: 15px 30px; kk f vh v.  call in on cc to gh bb be in bi rhu h kk no on cool om
       font-size: 1.1rem;
       font-weight: 700;
       color: #0f2027;
@@ -155,7 +156,7 @@
     <h2>welcome kayo mga iniwan</h2>
     <p>kiannnn websiteee!!!!</p>
     <button onclick="alert('soon!!')">list:</button>
-  </section>
+  </section> f and mo
 
   <section id="features" class="features">
     <div class="feature">
@@ -167,8 +168,8 @@
       <p>iniwan ni joazil at pinili ung pinsan nya</p>
     </div>
     <div class="feature">
-      <h3>rhainjehlyn</h3>
-      <p>miss nya na ex nya HAHAHHA</p>
+      <h3>antoina</h3>
+      <p>miss nya na si angelo</p>
     </div>
   </section>
 
